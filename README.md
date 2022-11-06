@@ -10,7 +10,7 @@
 
 ### Data
 
-The data set provided for this assignment contains pixel information for many 28x28
+The data set contains pixel information for many 28x28
 grayscale images of clothing, Each image is labelled as one of
 the 10 different pieces of clothing:
 class_labels = [T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle
